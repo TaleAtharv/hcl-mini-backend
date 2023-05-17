@@ -8,7 +8,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Soumay Kumar",
+  "author": "Atharv",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
